@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Abstract}{2}{}%
+\contentsline {section}{\numberline {2}Introduction}{2}{}%
+\contentsline {section}{\numberline {3}My Model}{2}{}%
+\contentsline {subsection}{\numberline {3.1}What is an Agent Based Model}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Mathematical Model}{3}{}%
+\contentsline {section}{\numberline {4}Computational Approach and Implementation}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Moving}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Quiets and Actives The Descension to Riot}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Police Arresting}{12}{}%
+\contentsline {section}{\numberline {5}My Results}{13}{}%
+\contentsline {section}{\numberline {6}Evaluation}{14}{}%
+\contentsline {section}{\numberline {7}Bibliography}{16}{}%
+\contentsline {section}{\numberline {8}Appendices (Matlab Code)}{17}{}%

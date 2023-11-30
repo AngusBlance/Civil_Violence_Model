@@ -1,0 +1,548 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.19)  10 MAR 2023 16:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"abm project.tex"
+(./abm project.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count183
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count184
+\leftroot@=\count185
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count186
+\DOTSCASE@=\count187
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
+\dotsspace@=\muskip16
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks17
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count195
+\lst@gtempboxa=\box49
+\lst@token=\toks22
+\lst@length=\count196
+\lst@currlwidth=\dimen150
+\lst@column=\count197
+\lst@pos=\count198
+\lst@lostspace=\dimen151
+\lst@width=\dimen152
+\lst@newlines=\count199
+\lst@lineno=\count266
+\lst@maxwidth=\dimen153
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count267
+\lst@skipnumbers=\count268
+\lst@framebox=\box50
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks23
+\float@box=\box51
+\@float@everytoks=\toks24
+\@floatcapt=\box52
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count270
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box53
+) (./abm project.aux
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+
+LaTeX Warning: Label `fig:frenchriot' multiply defined.
+
+)
+\openout1 = `"abm project.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (d:/apps/TexLive/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen154
+\scratchbox=\box54
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen155
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks26
+)
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count278
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+
+ (d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./abm project.toc)
+\tf@toc=\write3
+\openout3 = `"abm project.toc"'.
+
+ [1
+
+{d:/apps/TexLive/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1.93927pt too wide) in paragraph at lines 26--27
+\OT1/cmr/bx/n/10.95 Instances of large-scale dis-or-der oc-cur fre-quently arou
+nd the world,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--55
+
+ []
+
+[2]
+<agents format.png, id=14, 252.19218pt x 226.59656pt>
+File: agents format.png Graphic file (type png)
+<use agents format.png>
+Package pdftex.def Info: agents format.png  used on input line 59.
+(pdftex.def)             Requested size: 360.0pt x 323.46701pt.
+<grid beggining.png, id=16, 429.10312pt x 41.4047pt>
+File: grid beggining.png Graphic file (type png)
+<use grid beggining.png>
+Package pdftex.def Info: grid beggining.png  used on input line 65.
+(pdftex.def)             Requested size: 360.0pt x 34.73735pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--70
+
+ []
+
+[3] [4 <./agents format.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+<vision example.png, id=24, 2310.6325pt x 885.3075pt>
+File: vision example.png Graphic file (type png)
+<use vision example.png>
+Package pdftex.def Info: vision example.png  used on input line 86.
+(pdftex.def)             Requested size: 360.0pt x 137.92369pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--93
+
+ []
+
+[5 <./grid beggining.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
+
+ []
+
+[6 <./vision example.png>] [7]
+<Visual Grid.png, id=39, 881.54344pt x 836.3747pt>
+File: Visual Grid.png Graphic file (type png)
+<use Visual Grid.png>
+Package pdftex.def Info: Visual Grid.png  used on input line 118.
+(pdftex.def)             Requested size: 360.0pt x 341.55031pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
+
+ []
+
+<cops and quiets on grid visual.png, id=40, 1425.07407pt x 850.67813pt>
+File: cops and quiets on grid visual.png Graphic file (type png)
+<use cops and quiets on grid visual.png>
+Package pdftex.def Info: cops and quiets on grid visual.png  used on input line
+ 124.
+(pdftex.def)             Requested size: 360.0pt x 214.88864pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
+
+ []
+
+[8 <./Visual Grid.png>]
+<Matlab 10 by 10 matrix example.png, id=45, 1047.915pt x 371.88937pt>
+File: Matlab 10 by 10 matrix example.png Graphic file (type png)
+<use Matlab 10 by 10 matrix example.png>
+Package pdftex.def Info: Matlab 10 by 10 matrix example.png  used on input line
+ 130.
+(pdftex.def)             Requested size: 360.0pt x 127.7572pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+[9 <./cops and quiets on grid visual.png> <./Matlab 10 by 10 matrix example.png
+>]
+<Movement visual.png, id=51, 1541.00719pt x 593.21625pt>
+File: Movement visual.png Graphic file (type png)
+<use Movement visual.png>
+Package pdftex.def Info: Movement visual.png  used on input line 140.
+(pdftex.def)             Requested size: 360.0pt x 138.58212pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+<vision for single case.png, id=52, 1663.71562pt x 726.46407pt>
+File: vision for single case.png Graphic file (type png)
+<use vision for single case.png>
+Package pdftex.def Info: vision for single case.png  used on input line 151.
+(pdftex.def)             Requested size: 360.0pt x 157.19545pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
+
+ []
+
+[10 <./Movement visual.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
+
+ []
+
+[11 <./vision for single case.png>] [12]
+<french riot.png, id=64, 219.82124pt x 118.19156pt>
+File: french riot.png Graphic file (type png)
+<use french riot.png>
+Package pdftex.def Info: french riot.png  used on input line 183.
+(pdftex.def)             Requested size: 360.0pt x 193.5685pt.
+<Riot With Smoke vs Without.png, id=65, 1445.4pt x 718.93594pt>
+File: Riot With Smoke vs Without.png Graphic file (type png)
+<use Riot With Smoke vs Without.png>
+Package pdftex.def Info: Riot With Smoke vs Without.png  used on input line 188
+.
+(pdftex.def)             Requested size: 360.0pt x 179.06436pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+[13 <./french riot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+[14 <./Riot With Smoke vs Without.png (PNG copy)>]
+<civilian vision.png, id=74, 1919.17pt x 989.6975pt>
+File: civilian vision.png Graphic file (type png)
+<use civilian vision.png>
+Package pdftex.def Info: civilian vision.png  used on input line 206.
+(pdftex.def)             Requested size: 360.0pt x 185.64333pt.
+<epedemic like program.png, id=75, 1445.4pt x 718.93594pt>
+File: epedemic like program.png Graphic file (type png)
+<use epedemic like program.png>
+Package pdftex.def Info: epedemic like program.png  used on input line 216.
+(pdftex.def)             Requested size: 360.0pt x 179.06436pt.
+ [15 <./civilian vision.png>] (./abm project.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 8.
+
+) [16 <./epedemic like program.png (PNG copy)>]
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(./civil_violence_model.m
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
+4.
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 14.
+ [17]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+8.
+
+(d:/apps/TexLive/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+ [18]
+[19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33])
+[34] (./abm project.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5523 strings out of 479917
+ 72279 string characters out of 5880229
+ 751242 words of memory out of 5000000
+ 22044 multiletter control sequences out of 15000+600000
+ 543141 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,7n,72p,973b,2119s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/apps/TexLive/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts
+1.enc}<d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><d:/apps/TexLive/texlive/2020/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1095.pfb>
+Output written on "abm project.pdf" (34 pages, 1786805 bytes).
+PDF statistics:
+ 176 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

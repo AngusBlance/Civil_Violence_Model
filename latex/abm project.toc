@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Abstract}{3}{}%
+\contentsline {section}{\numberline {2}Introduction}{3}{}%
+\contentsline {section}{\numberline {3}My Model}{4}{}%
+\contentsline {subsection}{\numberline {3.1}What is an Agent Based Model}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Mathematical Model}{5}{}%
+\contentsline {section}{\numberline {4}Computational Approach and Implementation}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Moving}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Quiets and Actives The Descension to Riot}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Police Arresting}{14}{}%
+\contentsline {subsection}{\numberline {4.4}Smoke}{15}{}%
+\contentsline {section}{\numberline {5}Results From my Model 1}{16}{}%
+\contentsline {subsection}{\numberline {5.1}Deceptive Behaviour}{16}{}%
+\contentsline {subsection}{\numberline {5.2}Snowball Effect}{17}{}%
+\contentsline {subsection}{\numberline {5.3}Effect of Legitimacy}{19}{}%
+\contentsline {subsection}{\numberline {5.4}Police Reductions}{22}{}%
+\contentsline {subsection}{\numberline {5.5}Simulating a 'Riot'}{24}{}%
+\contentsline {subsection}{\numberline {5.6}The Effect of Smoke}{26}{}%
+\contentsline {subsection}{\numberline {5.7}Model Analysis}{28}{}%
+\contentsline {section}{\numberline {6}Ethnic group model}{29}{}%
+\contentsline {subsection}{\numberline {6.1}Peace and Harmony}{29}{}%
+\contentsline {subsection}{\numberline {6.2}Ethnic Cleansing}{30}{}%
+\contentsline {subsection}{\numberline {6.3}Effect of Police Density on Extinction Times}{33}{}%
+\contentsline {section}{\numberline {7}Model 2 Evaluation}{35}{}%
+\contentsline {section}{\numberline {8}Conclusions}{37}{}%
+\contentsline {section}{\numberline {9}Appendices (Matlab Code)}{38}{}%
